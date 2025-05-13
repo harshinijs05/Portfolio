@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Mounika Guduru</h3>
+          <h3>Designed and Developed by J S Harshini</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} GM</h3>
+          <h3>Copyright © {year} JSH</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Mounika14112006"
+                href="https://github.com/harshinijs05"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/guduru-mounika-506541271/"
+                href="https://www.linkedin.com/in/jayanthi-savitri-harshini-61aab62a8/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
